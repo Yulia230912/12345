@@ -1,0 +1,23 @@
+body {
+	background-color: blueviolet;
+	color:white;
+  font-family: Arial
+  line-height:30px;
+}
+select {
+  padding: 5px 10px;
+  margin:20px;
+  background-color: aquamarine;
+  font-size:16px;
+  color:darkblue;
+  font-weight: bold;
+}
+circle{
+	background-color: yellow;
+  height: 100px;
+  left: 50px;
+  position: absolute;
+  top: 50px;
+  width: 100px;
+  border-radius: 50%;
+}
